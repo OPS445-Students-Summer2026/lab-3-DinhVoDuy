@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''Lab 3 Part 1 script - functions'''
-# Author ID: [seneca_id] 
+# Author ID: dvo12 || 114641244 
 
 import sys
 
